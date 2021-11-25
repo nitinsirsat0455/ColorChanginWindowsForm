@@ -1,0 +1,10 @@
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\bin\Debug\ColorChanginWindowsForm.exe.config
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\bin\Debug\ColorChanginWindowsForm.exe
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\bin\Debug\ColorChanginWindowsForm.pdb
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.csprojAssemblyReference.cache
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.Form1.resources
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.Properties.Resources.resources
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.csproj.GenerateResource.cache
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.csproj.CoreCompileInputs.cache
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.exe
+D:\nitinysirsat\.NET\ColorChanginWindowsForm\obj\Debug\ColorChanginWindowsForm.pdb
